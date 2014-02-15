@@ -1,0 +1,27 @@
+
+- dir: .
+  url: git@github.com:AndreaCensi/env_fault.git
+
+- dir: src/contracts
+  url: git@github.com:AndreaCensi/contracts.git
+  branch: env_14mdp
+
+- dir: src/compmake
+  url: git@github.com:AndreaCensi/compmake.git
+  branch: env_14mdp
+
+- dir: src/reprep
+  url: git@github.com:AndreaCensi/reprep.git
+  branch: env_14mdp
+
+- dir: src/conf_tools
+  url: git@github.com:AndreaCensi/conf_tools.git
+  branch: env_14mdp
+
+- dir: src/quickapp
+  url: git@github.com:AndreaCensi/quickapp.git
+  branch: env_14mdp
+
+- dir: src/decent_logs
+  url: git@github.com:AndreaCensi/decent_logs.git
+  branch: env_14mdp

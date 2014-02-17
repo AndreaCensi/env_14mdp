@@ -1,6 +1,6 @@
 
 - dir: .
-  url: git@github.com:AndreaCensi/env_fault.git
+  url: git@github.com:AndreaCensi/env_14mdp.git
 
 - dir: src/contracts
   url: git@github.com:AndreaCensi/contracts.git
@@ -18,10 +18,14 @@
   url: git@github.com:AndreaCensi/conf_tools.git
   branch: env_14mdp
 
+- dir: src/decent_logs
+  url: git@github.com:AndreaCensi/decent_logs.git
+  branch: env_14mdp
+
 - dir: src/quickapp
   url: git@github.com:AndreaCensi/quickapp.git
   branch: env_14mdp
 
-- dir: src/decent_logs
-  url: git@github.com:AndreaCensi/decent_logs.git
-  branch: env_14mdp
+- dir: src/tmdp
+  url: git@github.com:AndreaCensi/tmdp.git
+  branch: master

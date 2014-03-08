@@ -29,3 +29,7 @@
 - dir: src/tmdp
   url: git@github.com:AndreaCensi/tmdp.git
   branch: master
+
+- dir: src/memos
+  url: git@github.com:AndreaCensi/memos.git
+  branch: env_14mdp

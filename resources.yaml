@@ -33,3 +33,7 @@
 - dir: src/memos
   url: git@github.com:AndreaCensi/memos.git
   branch: env_14mdp
+
+- dir: src/procgraph
+  url: git@github.com:AndreaCensi/procgraph.git
+  branch: env_14mdp

@@ -11,5 +11,6 @@
 <path>/${PROJECT_DIR_NAME}/src/compmake/src</path>
 <path>/${PROJECT_DIR_NAME}/src/reprep/src</path>
 <path>/${PROJECT_DIR_NAME}/src/memos/src</path>
+<path>/${PROJECT_DIR_NAME}/src/procgraph/src</path>
 </pydev_pathproperty>
 </pydev_project>

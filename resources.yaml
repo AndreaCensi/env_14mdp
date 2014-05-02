@@ -2,6 +2,18 @@
 - dir: .
   url: git@github.com:AndreaCensi/env_14mdp.git
 
+- dir: docs/14tmdp
+  url: git@github.com:AndreaCensi/14tmdp.git
+  branch: env_14mdp
+
+- dir: docs/writingtools
+  url: git@github.com:AndreaCensi/writingtools.git
+  branch: env_14mdp
+
+- dir: src/contracts
+  url: git@github.com:AndreaCensi/contracts.git
+  branch: env_14mdp
+
 - dir: src/contracts
   url: git@github.com:AndreaCensi/contracts.git
   branch: env_14mdp
@@ -37,3 +49,26 @@
 - dir: src/procgraph
   url: git@github.com:AndreaCensi/procgraph.git
   branch: env_14mdp
+
+
+
+- dir: src/contracts
+  url: git@github.com:AndreaCensi/contracts.git
+  branch: env_14mdp
+
+- dir: src/latex_gen
+  url: git@github.com:AndreaCensi/latex_gen.git
+  branch: env_14mdp
+
+- dir: src/latex_symbol_list
+  url: git@github.com:AndreaCensi/latex_symbol_list.git
+  branch: env_14mdp
+
+- dir: src/latex_deps
+  url: git@github.com:AndreaCensi/latex_deps.git
+  branch: env_14mdp
+
+- dir: src/lyx_sections
+  url: git@github.com:AndreaCensi/lyx_sections.git
+  branch: env_14mdp
+  

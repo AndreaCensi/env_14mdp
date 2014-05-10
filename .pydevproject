@@ -12,5 +12,9 @@
 <path>/${PROJECT_DIR_NAME}/src/reprep/src</path>
 <path>/${PROJECT_DIR_NAME}/src/memos/src</path>
 <path>/${PROJECT_DIR_NAME}/src/procgraph/src</path>
+<path>/${PROJECT_DIR_NAME}/src/lyx_sections/src</path>
+<path>/${PROJECT_DIR_NAME}/src/latex_symbol_list/src</path>
+<path>/${PROJECT_DIR_NAME}/src/latex_gen/src</path>
+<path>/${PROJECT_DIR_NAME}/src/latex_deps/src</path>
 </pydev_pathproperty>
 </pydev_project>

@@ -38,6 +38,10 @@
   url: git@github.com:AndreaCensi/quickapp.git
   branch: env_14mdp
 
+- dir: src/comptests
+  url: git@github.com:AndreaCensi/comptests.git
+  branch: env_14mdp
+
 - dir: src/tmdp
   url: git@github.com:AndreaCensi/tmdp.git
   branch: master

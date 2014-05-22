@@ -1,9 +1,23 @@
-2014-04-29
+
+Reproducible research
+=====================
 
 This works:
+    
+    tmdp pomdp-list --horizons --mdps intruderdec_2,intruderdec_4,intruderdec_4a,intruderdec_4b,intruderdec_6,intruderdec_6b,intruderdec_8 -o all3 --console
 
-    tmdp pomdp-list --mdps pomdp_intruder_2,pomdp_intruder_4,pomdp_intruder_4a,pomdp_intruder_4b,pomdp_intruder_6,pomdp_intruder_8,pomdp_intruder_11 -o all2 -c  "parmake recurse=1"
+    tmdp pomdp-list --mdps pomdp_intruder_2,pomdp_intruder_4,pomdp_intruder_4a,pomdp_intruder_4b,pomdp_intruder_6,pomdp_intruder_8,pomdp_intruder_11 -o all3 -c  "parmake recurse=1"
 
+Then copy using:
+
+    rsync -avP all2/reports* ../../docs/14tmdp/14tmdpnotes/figures/all
+
+
+tmdp pomdp-list --mdps intruderdec_2,intruderdec_4,intruderdec_4a,intruderdec_4b,intruderdec_6,intruderdec_8,intruderdec_11 -o all3 -c  "parmake recurse=1"
+
+
+Other misc
+===========
     tmdp pomdp-list --mdps pomdp_intruder_4 -o pomdp_intruder_4 -c  "parmake recurse=1"
 
 
